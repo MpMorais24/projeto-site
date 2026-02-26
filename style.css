@@ -1,19 +1,5 @@
-*{
-    font-family: Arial, Helvetica,      sans-serif;
-    font-size: 16px;
+*plano_fundo{
+    background-image: url(//img/Tela-fundo.webp);
 
 }
 
-body{
-    background-color:red
-
-}
-
-main{
-    background-color:red;
-    width:500px;
-    margin:auto;
-    padding:10px;
-    box-shadow: 3px 3px 5px rgb(red, green, blue)
-
-}
