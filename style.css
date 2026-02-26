@@ -5,12 +5,12 @@
 }
 
 body{
-    background-color: rgb(red, green, blue);
+    background-color:red
 
 }
 
 main{
-    background-color: white;
+    background-color:red;
     width:500px;
     margin:auto;
     padding:10px;
